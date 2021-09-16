@@ -1,9 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I am Spunchpop
 
-<!--
-**Spunchpop/Spunchpop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Some stuff about me:**
 
 - 🔭 I’m currently working on school stuff
 - 🌱 I’m currently learning school stuff
@@ -12,4 +10,3 @@ Here are some ideas to get you started:
 - 💬 Things I like are sports, math, and spunch pop
 - 📫 How to reach me: 740344@pdsb.net
 - ⚡ Fun fact: 🇪🇬 I speak 2 languages
--->
